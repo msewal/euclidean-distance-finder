@@ -1,0 +1,13 @@
+Distances between points:
+Distance between (2, 3) and (5, 7): 5.00
+Distance between (2, 3) and (1, 1): 2.24
+Distance between (2, 3) and (8, 8): 7.81
+Distance between (2, 3) and (4, 6): 3.61
+Distance between (5, 7) and (1, 1): 7.21
+Distance between (5, 7) and (8, 8): 3.16
+Distance between (5, 7) and (4, 6): 1.41
+Distance between (1, 1) and (8, 8): 9.90
+Distance between (1, 1) and (4, 6): 5.83
+Distance between (8, 8) and (4, 6): 4.47
+
+Minimum distance: 1.41 between points (5, 7) and (4, 6)
